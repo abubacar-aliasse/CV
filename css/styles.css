@@ -1,0 +1,48 @@
+/*****************Tags Selector*********/
+body {
+    background-color: azure;
+}
+hr { 
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey; 
+    border-width: 5px;
+    width: 10%;
+
+}
+img {
+    height: 200px;
+}
+
+h1 , h2{
+    color: #159895;
+}
+/*****************Class Seletor*********/
+.thtab {
+background-color: #159895;
+color: #fff;
+}
+
+.btnsub{
+    background-color: #159895;
+    color: cornsilk;
+    cursor: pointer;
+    border: 0;
+    padding: 0 20px;
+    border-radius: 100px;
+    
+}
+
+
+
+
+
+
+/*****************ids selector*********/
+#tableLang{
+    background-color: aquamarine;
+    table-layout: auto;
+    width: 30%;
+    border-collapse: collapse;
+    text-align: center;
+}

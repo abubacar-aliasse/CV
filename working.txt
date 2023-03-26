@@ -15,7 +15,7 @@
                 alt="Abubacar Profile Picture"></td>
             <td>
                 <h1>Abubacar Essimela Aliasse</h1>
-                <p class="p1Links"><em><strong><a href="mailto:abubacaressimela@gmail.com">Email</a> or <a
+                <p><em><strong><a href="mailto:abubacaressimela@gmail.com">Email</a> or <a
                                 href="https://www.linkedin.com/in/abubacar-aliasse-28290818a/">Linkedin</a></strong></em></p>
                 <p>With a degree in computer science from Universidade Pedagógica and ITIL certification, I have basic
  
@@ -78,31 +78,33 @@
     <P><STrong>BASIC SCHOOL, </STrong>CIDADE ALTA SECONDARY SCHOOL - NACALA – PORTO</P>
 
     <hr>
-    <table id="tableLang">
-        <thead class="thtab">
+    <table border="1">
+        <thead>
             <tr>
                 <td>Languages</td>
-                <td>Spoken</td>
-                <td>Writing</td>
+                <td>Level</td>
+                <td>Percentage</td>
             </tr>
         </thead>
         <tbody>
             <tr>
                 <td>Ingles</td>
-                <td>Intermediate</td>
-                <td>Intermediate</td>
+                <td>10</td>
+                <td>80%</td>
             </tr>
             <tr>
                 <td>Portuguese</td>
-                <td>Fluente</td>
-                <td>Fluente</td>
+                <td>20</td>
+                <td>100%</td>
+            </tr>
+
         </tbody>
         <tfoot>
 
 
         </tfoot>
-    </table> <br>
-   <p><a href="skills.html">MY Skills</a>  </p> 
+    </table>
+    <a href="skills.html">MY Skills</a>
     <a href="contact.html">Contact Me</a>
 
 </body>
