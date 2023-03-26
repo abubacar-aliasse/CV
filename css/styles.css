@@ -58,9 +58,9 @@ list-style-position: inside;
 /*****************ids selector*********/
 #tableLang{
     background-color: aquamarine;
-    table-layout: fixed;
-    width: 30%;
+    table-layout: auto;
+    width: 40%;
     border-collapse: collapse;
     text-align: center;
-    margin: 0 auto;
+    margin:  auto;
 }
