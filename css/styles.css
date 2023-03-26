@@ -17,6 +17,13 @@ img {
 h1 , h2{
     color: #159895;
 }
+h2{ 
+    text-align: center;
+}
+h4 , h5 {
+    color: #159895;
+    text-align: center;
+}
 /*****************Class Seletor*********/
 .thtab {
 background-color: #159895;
@@ -32,17 +39,28 @@ color: #fff;
     border-radius: 100px;
     
 }
+.listexp {
+    list-style: none;
+text-align:center;
+list-style-position: inside;
+}
 
+.peducation {
+   text-align: center; 
+}
 
-
+.details {
+    text-align: center;
+}
 
 
 
 /*****************ids selector*********/
 #tableLang{
     background-color: aquamarine;
-    table-layout: auto;
+    table-layout: fixed;
     width: 30%;
     border-collapse: collapse;
     text-align: center;
+    margin: 0 auto;
 }
